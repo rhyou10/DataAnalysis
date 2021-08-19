@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 roadapikey.txt
 kakaoapikey.txt
+password.txt
 guideSearchApi/
 
 # C extensions
